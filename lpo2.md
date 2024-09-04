@@ -2,3 +2,5 @@
 
 Desde que en el *Matrix* hubo un bug, la escuela se encuentra asediada por un virus contra el que **Larry**
 y sus amigos habian luchado.
+
+Como el malvado hacker le metio un troyano en su propio codigo, tenia miedo.
